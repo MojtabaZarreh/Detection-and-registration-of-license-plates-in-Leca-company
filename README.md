@@ -17,3 +17,11 @@ https://github.com/user-attachments/assets/956565f4-86a8-489e-ae2f-d5909ccdeaa6
 
 
 https://github.com/user-attachments/assets/43cd0169-e813-422e-ab11-9bac87d1c022
+
+
+
+# MODEL
+YOLO version 5 is used to detect license plates in the images.
+
+![ee40e08591124b469124b46e5ed12dee](https://github.com/user-attachments/assets/4c819b16-e3e8-4830-9739-2242e5618aef)
+
