@@ -1,0 +1,93 @@
+@font-face {
+    font-family: Vazir;
+    src: url(../fonts/Vazir.ttf);
+    font-weight: bold;
+}
+
+body {
+    font-family: Vazir;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+.container {
+    font-family: Vazir;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.section-title {
+    font-family: Vazir;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+.car-image, .plate-details {
+    flex: 1 1 100%;
+    text-align: center;
+    padding: 20px;
+}
+.car-image img, .plate-details img {
+    max-width: 100%;
+    max-height: 400px; /* افزودن ارتفاع حداکثر برای تصاویر */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.plate-details p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+button {
+    font-family: Vazir;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+}
+button:hover {
+    background-color: #45a049;
+}
+table {
+    font-family: Vazir;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    font-size: 16px;
+}
+th {
+    background-color: #f2f2f2;
+}
+.action-buttons button {
+    padding: 5px;
+    font-size: 16px;
+}
+.edit-btn {
+    background-color: #2196F3;
+}
+.edit-btn:hover {
+    background-color: #0b7dda;
+}
+.delete-btn {
+    background-color: #f44336;
+}
+.delete-btn:hover {
+    background-color: #da190b;
+}
