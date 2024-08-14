@@ -38,8 +38,13 @@ I do not have permission to publish this dataset.
 # RESOURCES
 
 https://github.com/ultralytics/yolov5
+
 https://pytorch.org/hub/ultralytics_yolov5/
+
 https://huggingface.co/hezarai/crnn-fa-license-plate-recognition
+
 https://github.com/hezarai/hezar
+
 https://huggingface.co/keremberke/yolov5m-license-plate
+
 https://huggingface.co/keremberke/yolov5s-license-plate
