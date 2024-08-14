@@ -24,3 +24,8 @@ https://github.com/user-attachments/assets/43cd0169-e813-422e-ab11-9bac87d1c022
 YOLO version 5 is used to detect license plates in the images.
 
 ![YOLOv5_banner-1799x309](https://github.com/user-attachments/assets/d5e7c674-9c2e-4474-95d8-0cdb2b31c788)
+
+And also, to convert the identified license plate images into text and extract numbers and letters from the image, the open text library named Hezar, whose model is C-RNN, has been used.
+
+![hezar](https://github.com/user-attachments/assets/be91b3f4-21b8-4752-bf2a-0dd72843ece9)
+
