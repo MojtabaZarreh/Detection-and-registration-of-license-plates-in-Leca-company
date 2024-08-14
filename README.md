@@ -29,3 +29,8 @@ And also, to convert the identified license plate images into text and extract n
 
 ![hezar](https://github.com/user-attachments/assets/be91b3f4-21b8-4752-bf2a-0dd72843ece9)
 
+
+# DATASET
+The dataset used in this project is a collected dataset containing 2500 images of Iranian cars on the street and highways.
+I do not have permission to publish this dataset.
+(Special thanks to Ali Tavakalpour)
