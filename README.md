@@ -7,5 +7,4 @@ I implemented this project at Leca Company using computer vision to enhance the 
 I am also working on improving this system so that, with a single click, both the license plate and the vehicle's weight are simultaneously recorded in the company's software, eliminating the need for manual entry of the weight.
 
 
-https://github.com/user-attachments/assets/d361a0b1-e501-48aa-b90f-4609d9394de0
 
