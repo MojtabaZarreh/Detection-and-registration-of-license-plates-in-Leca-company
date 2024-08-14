@@ -34,3 +34,12 @@ And also, to convert the identified license plate images into text and extract n
 The dataset used in this project is a collected dataset containing 2500 images of Iranian cars on the street and highways.
 I do not have permission to publish this dataset.
 (Special thanks to Ali Tavakalpour)
+
+# RESOURCES
+
+https://github.com/ultralytics/yolov5
+https://pytorch.org/hub/ultralytics_yolov5/
+https://huggingface.co/hezarai/crnn-fa-license-plate-recognition
+https://github.com/hezarai/hezar
+https://huggingface.co/keremberke/yolov5m-license-plate
+https://huggingface.co/keremberke/yolov5s-license-plate
